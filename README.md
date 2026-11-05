@@ -7,6 +7,9 @@ I'm a high-school student exploring cybersecurity and cloud computing, with a Li
 - **[NetPulse CLI](https://github.com/phsecx/netpulse-cli)** — An asynchronous Python utility for checking HTTP responses, TLS certificate dates, and the HSTS, CSP, and X-Frame-Options headers. It is a lightweight configuration auditor, not a penetration-testing framework; scan only systems you are authorized to assess.
 - **[Q Tools](https://github.com/phsecx/qtools)** — A browser-based developer toolkit that runs client-side, with QR tools, encoders/decoders, and generators. [Try the live demo](https://dashtools.ddns.net).
 
+## Open-source contribution
+- **[Bite PR #192](https://github.com/connabyss/bite/pull/192)** — Fixed `--only` handling so unknown commit IDs report an error; added regression tests. Merged upstream.
+
 ## Learning
 
 I document my cybersecurity, cloud-computing, and technology learning in [My CyberSec Journey](https://github.com/phsecx/My-CyberSec-Journey).

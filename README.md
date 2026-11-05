@@ -8,7 +8,7 @@ I'm a high-school student exploring cybersecurity and cloud computing, with a Li
 - **[Q Tools](https://github.com/phsecx/qtools)** — A browser-based developer toolkit that runs client-side, with QR tools, encoders/decoders, and generators. [Try the live demo](https://dashtools.ddns.net).
 
 ## Open-source contribution
-- **[Bite PR #192](https://github.com/connabyss/bite/pull/192)** — Fixed `--only` handling so unknown commit IDs report an error; added regression tests. Merged upstream.
+- **[Bite PR #192](https://github.com/connabyss/bite/pull/192)** · [Bite v1.0.5 release](https://github.com/connabyss/bite/releases/tag/v1.0.5) — Fixed `--only` handling so unknown commit IDs report an error; added regression tests. Merged upstream.
 
 ## Learning
 
